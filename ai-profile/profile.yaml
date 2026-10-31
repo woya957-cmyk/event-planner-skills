@@ -1,0 +1,87 @@
+schema_version: "1.0"
+profile_type: "ai_collaboration_profile"
+visibility: "public_professional"
+updated_at: "2026-10-31"
+language: "zh-CN"
+
+identity:
+  label: "活动策略与创意执行从业者"
+  github_handle: "woya957-cmyk"
+  public_real_name: null
+  contact_details: null
+
+professional_background:
+  discipline: "活动策划与执行"
+  experience_years_approx: 5
+  creative_background: "舞蹈编导"
+  specialties:
+    - "企业与品牌活动策划"
+    - "内容创意与提案"
+    - "现场体验与互动机制"
+    - "活动执行统筹"
+    - "AI 辅助策划工作流"
+  direction:
+    - "大型演出与大型活动"
+    - "综艺化现场体验"
+
+core_principle: "内容先于包装；创意需要真实参与机制与可落地成果"
+
+thinking_framework:
+  workflow:
+    - Brief
+    - Insight
+    - Strategy
+    - Big_Idea
+    - Creative_System
+    - Experience
+    - Show_Space_Interaction
+    - Execution
+    - Presentation
+    - QA
+  operating_model: "EventOS C-Lite × Event Planner Skills V2.0"
+  roles:
+    - "需求策略官"
+    - "案例研究员"
+    - "内容创意官"
+    - "体验落地与提案官"
+    - "独立质检官"
+  creative_routes_minimum: 3
+  creative_routes_must_differ_by: "参与机制而非口号"
+  case_research: "中国国内与国际真实案例并重，附可验证出处"
+
+communication_preferences:
+  language: "简体中文"
+  tone:
+    - "清晰"
+    - "平实"
+    - "有洞察"
+    - "批判性"
+    - "少套话"
+  requirements:
+    - "事实与假设分开"
+    - "不杜撰来源、数据或案例"
+    - "明确可执行性与风险"
+
+deliverable_preferences:
+  image:
+    default_aspect_ratio: "16:9"
+    preferred_resolution: "3840x2160"
+    preferred_format: "PNG"
+    independent_files: true
+    avoid_ai_generated_text_or_logos: true
+    do_not_fake_upscale_to_4k: true
+  presentation:
+    format: ".pptx"
+    editable_text_and_structure: true
+    prefer_rendered_visual_layers: true
+    avoid_mojibake: true
+    progression: "策略内容 → 预览确认 → 扩展 → 可编辑交付"
+    preserve_supplied_logo_assets: true
+
+privacy:
+  do_not_publish:
+    - "私人联系方式和详细住址"
+    - "未授权公开的客户项目细节"
+    - "合同、报价与供应商敏感成本"
+    - "个人敏感信息与内部文件"
+  scope_note: "本文件仅用于公开、低敏感度的职业 AI 协作上下文"
