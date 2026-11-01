@@ -1,6 +1,6 @@
 # AI Personal Profile｜个人 AI 协作档案
 
-**版本：** V1.0 · 2026-10-31  
+**版本：** V2.0 · 2026-11-01  
 **用途：** 让 AI 助手快速理解我的职业方向、思考习惯、策划工作流与交付标准。  
 **公开级别：** Public / Professional（不含隐私和客户保密信息）
 
@@ -78,3 +78,15 @@
 这是一份**职业协作画像**，不是公开履历证据，不包含未授权披露的项目客户、金额、供应商底价、联络方式或个人敏感资料。不同项目的目标、预算和风格不能由本档案替代，应以当次 Brief 为准。
 
 机器可读版本见 [profile.yaml](profile.yaml)；AI 可复制执行说明见 [AI_INSTRUCTIONS.md](AI_INSTRUCTIONS.md)。
+
+## 08 / 新增的实际使用入口（V2.0）
+
+如果新的 AI 只能读取一个文件，先给它 [QUICK_CONTEXT.md](QUICK_CONTEXT.md)。完整的活动策划、PPT、案例研究、复盘与作品集处理方法在 [WORKFLOWS.md](WORKFLOWS.md)。
+
+- [能力地图](SKILL_MAP.md)：按真实证据持续记录能力发展，不虚构履历；
+- [质量检查表](QUALITY_CHECKLIST.md)：评估内容、机制、执行、视觉与数据；
+- [项目案例模板](CASE_TEMPLATE.md)：把经历沉淀为可授权公开的案例；
+- [隐私规范](PRIVACY.md)：公开仓库的资料分级和保护要求；
+- [私有档案空白模板](../private-vault-starter/README.md)：请先创建独立 Private 仓库，之后才能填写实际个人记录。
+
+**更新原则：** 当前任务 Brief 优先于本档案。事实、偏好与假设应明确区分；真实个人项目资料未经授权不要提交到这个公开仓库。
