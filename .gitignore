@@ -1,0 +1,12 @@
+# 防止本地克隆时无意追踪私有资料（不能替代 GitHub 仓库权限）
+private-vault/
+personal-private/
+secrets/
+.env
+.env.*
+*.key
+*.pem
+
+# 常见编辑器和系统临时文件
+.DS_Store
+Thumbs.db
