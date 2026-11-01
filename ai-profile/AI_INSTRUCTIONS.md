@@ -34,3 +34,9 @@
 ## 隐私与优先级
 
 此仓库公开，切勿将用户私人信息、未经许可的客户文件与商业数据补写到这里。当前任务的明确要求与已经确认的项目事实优先于此通用档案；不明信息不得猜测成事实。
+
+## 读取顺序与版本
+
+V2.0（2026-11-01）。新对话先读 [QUICK_CONTEXT.md](QUICK_CONTEXT.md)；按任务调用 [WORKFLOWS.md](WORKFLOWS.md)；交付前核查 [QUALITY_CHECKLIST.md](QUALITY_CHECKLIST.md)。职业成长相关可查 [SKILL_MAP.md](SKILL_MAP.md)。任何上传 GitHub 的操作都先检查 [PRIVACY.md](PRIVACY.md)。
+
+这不是后台自动运行的系统，也不会在 AI 未连接仓库时自动加载。禁止向公开仓库追加客户敏感资料。
