@@ -1,7 +1,7 @@
-schema_version: "1.0"
+schema_version: "2.0"
 profile_type: "ai_collaboration_profile"
 visibility: "public_professional"
-updated_at: "2026-10-31"
+updated_at: "2026-11-01"
 language: "zh-CN"
 
 identity:
@@ -85,3 +85,30 @@ privacy:
     - "合同、报价与供应商敏感成本"
     - "个人敏感信息与内部文件"
   scope_note: "本文件仅用于公开、低敏感度的职业 AI 协作上下文"
+
+knowledgebase:
+  public_profile: "ai-profile/README.md"
+  quick_context: "ai-profile/QUICK_CONTEXT.md"
+  work_protocol: "ai-profile/WORKFLOWS.md"
+  case_template: "ai-profile/CASE_TEMPLATE.md"
+  quality_check: "ai-profile/QUALITY_CHECKLIST.md"
+  skill_map: "ai-profile/SKILL_MAP.md"
+  privacy_policy: "ai-profile/PRIVACY.md"
+  private_starter: "private-vault-starter/README.md"
+
+career_development:
+  priorities:
+    - "内容驱动的创意策略"
+    - "大型演出与综艺化现场机制"
+    - "有证据的作品集与能力沉淀"
+  evidence_policy: "经历与成果以本人实际职责和可核实资料为准，不编造指标"
+
+context_rules:
+  source_of_truth: "当前任务 Brief 与最新确认事实优先于存档"
+  confidence_levels:
+    - "user_confirmed"
+    - "externally_verified"
+    - "hypothesis"
+    - "needs_confirmation"
+  privacy_boundary: "本公开仓库不写入私人信息及客户保密资料"
+  ai_access_note: "仅在工具实际连接或用户明确提供时，AI 才能读取本档案"
